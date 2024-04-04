@@ -4,8 +4,8 @@ build:
 cards:
   message: "Welcome to EazyBank cards related local APIs "
   contactDetails:
-    name: "Rama krishna Boorgadda - Developer"
-    email: "rama@eazybank.com"
+    name: "Dragos Lech - Developer"
+    email: "dragos@eazybank.com"
   onCallSupport:
     - (412) 419-3491
     - (915) 382-1932
