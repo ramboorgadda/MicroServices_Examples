@@ -15,6 +15,7 @@ import java.time.LocalDateTime;
 @Document
 public class Post {
 
+
     @Id
     private String id;
     private String title;
